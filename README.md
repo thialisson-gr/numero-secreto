@@ -34,7 +34,7 @@ O jogo registra a quantidade de tentativas até o acerto.
 
 🎮 Como Executar?
 Baixe ou clone o repositório:
-git clone [https://github.com/seu-usuario/jogo-numero-secreto.git](https://github.com/thialisson-gr/numero-secreto)
+git clone https://github.com/thialisson-gr/numero-secreto
 Abra o arquivo index.html no navegador.
 
 
